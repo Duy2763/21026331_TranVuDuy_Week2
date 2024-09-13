@@ -1,0 +1,4 @@
+rest\UserResource.class
+entities\User.class
+utils\DBConnection.class
+dao\DaoUser.class
